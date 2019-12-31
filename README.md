@@ -1,0 +1,2 @@
+# hashtester
+Test hashing methods
